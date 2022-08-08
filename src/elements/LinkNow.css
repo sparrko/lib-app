@@ -1,0 +1,18 @@
+.link-now {
+    width: 700px;
+    margin:auto;
+    margin-top: 10pt;
+}
+.link-now a {
+    text-decoration: underline;
+    color: black;
+}
+.link-now a:hover {
+    color: rgb(70, 70, 70);
+}
+.sub-link-now * {
+    display: inline-block;
+}
+.sub-link-now-del {
+    margin: 0pt 5pt;
+}
