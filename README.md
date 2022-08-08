@@ -1,2 +1,3 @@
 # lib-app
-project for learning react
+Project for learning react. Books and autors data.
+With using Formik, React-Router-Dom...
