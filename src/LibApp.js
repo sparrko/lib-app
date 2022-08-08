@@ -15,7 +15,7 @@ function LibApp() {
         <Content />
       </Router>
       <footer>
-        2022 © Recode 
+        2022 © Fonerius 
       </footer>
     </div>
   );
